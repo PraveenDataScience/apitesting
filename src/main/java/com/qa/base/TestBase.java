@@ -10,6 +10,7 @@ public class TestBase {
 	public Properties prop;
 	
 	
+	//Constructor of TestBase calss:
 	public TestBase()
 	{
 		try {
